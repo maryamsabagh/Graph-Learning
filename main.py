@@ -4,7 +4,7 @@ import pickle
 import random
 import os
 from pathlib import Path as Data_Path
-from cbasic_types import JSONFile
+from basic_types import JSONFile
 from tqdm import tqdm
 import networkx as nx
 

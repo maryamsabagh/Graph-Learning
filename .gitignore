@@ -15,7 +15,6 @@ model_stats/
 *.pyc
 
 # ignore checkpoints
-**/checkpoint
+.ipynb_checkpoints
 
-test.py
-test-checkpoint.py
+
