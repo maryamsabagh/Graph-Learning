@@ -1,0 +1,15 @@
+# Ignore all amazon data
+amazon_example/
+
+# ignore model stuff
+model_embeddings/
+model_stats/
+
+# ignore .pkl files
+*.pkl
+
+# ignore all python notebooks
+*.ipynb
+
+# ignore cache
+*.pyc
