@@ -13,3 +13,6 @@ model_stats/
 
 # ignore cache
 *.pyc
+
+# ignore checkpoints
+.ipynb_checkpoints/
