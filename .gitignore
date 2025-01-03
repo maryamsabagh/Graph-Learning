@@ -16,3 +16,6 @@ model_stats/
 
 # ignore checkpoints
 **/checkpoint
+
+test.py
+test-checkpoint.py
